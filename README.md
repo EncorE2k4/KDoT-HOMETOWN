@@ -102,3 +102,5 @@ A free, high quality Discord bot. Never miss a beat with bot's 24/7 Uptime. Stre
 
  Screenshots
  ==========================
+![Screenshot_20210311-110212_Discord](https://user-images.githubusercontent.com/72906961/110740698-816c7100-8259-11eb-8dee-f1dafbae48da.jpg)
+
