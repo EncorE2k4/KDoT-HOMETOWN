@@ -12,74 +12,74 @@ A free, high quality Discord bot. Never miss a beat with bot's 24/7 Uptime. Stre
 >> 
 >> Alaliases :- None 
 >> 
->> Usage :- em!setprefix <your_prefix_here>
+>> Usage :- k.setprefix <your_prefix_here>
 > 
 >> `resetprefix` :- To reset the prefix to default .
 >>
 >> Alaliases :- None
 >> 
->> Usage :- em!resetprefix
+>> Usage :- k.resetprefix
 
 ## 🎵 Music
 >> `lyrics` :- To check song lyrics .
 >> 
 >> Alaliases :- `ly`
 >> 
->> Usage :- em!lyrics <song_name | Or leave it blank to check the current playing song's lyrics>
+>> Usage :- k.lyrics <song_name | Or leave it blank to check the current playing song's lyrics>
 >
 >> `nowplaying` :- To check currently playing song info
 >>
 >> Alaliases :- `np`
 >> 
->> Usage :- em!nowplaying
+>> Usage :- k.nowplaying
 > 
 >> `pause` :- To pause a song.
 >>
 >> Alaliases :- None
 >>
->> Usage :- em!pause
+>> Usage :- k.pause
 > 
 >> `play` :- To play song .
 >>
 >> Alaliases :- `p`
 >>
->> Usage:- em!play < Song Name | Song URL | Playlist URL>
+>> Usage:- k.play < Song Name | Song URL | Playlist URL>
 >
 >> `queue` :- To check which songs are in queue 
 >> 
 >> Alaliases :- `q`
 >>
->> Usage :- em!queue
+>> Usage :- k.queue
 > 
 >> `removesong` :- To remove a song from queue .
 >>
 >> Alaliases :- None
 >> 
->> Usage :- em!removesong <song number in queue>
+>> Usage :- k.removesong <song number in queue>
 > 
 >> `resume` :- To resume a song .
 >> 
 >> Alaliases :- None
 >> 
->> Usage :- em!resume
+>> Usage :- k.resume
 > 
 >> `seek` :- To forward a current playing song .
 >>
 >> Alaliases :- None
 >>
->> Usage :- em!seek <Time in second>
+>> Usage :- k.seek <Time in second>
 > 
 >> `skip` :- To skip current playing song  
 >>
 >> Alaliases :- None
 >>
->> Usage :- em!skip 
+>> Usage :- k.skip 
 > 
 >> `volume` :- To set the player volume .
 >>
 >> Alaliases :- `vol`
 >> 
->> Usage :- em!volume <00-300>
+>> Usage :- k.volume <00-300>
 
 ## 🎛️ Filters
 > COMING SOON
