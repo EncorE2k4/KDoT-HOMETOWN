@@ -8,7 +8,7 @@ A free, high quality Discord bot. Never miss a beat with bot's 24/7 Uptime. Stre
 
 ## 🛠️ Config
 
->> 𒄉 `setprefix` :- To set the server prefix by default it is `k.`
+> 𒄉 `setprefix` :- To set the server prefix by default it is `k.`
 >> 
 >> Alaliases :- None 
 >> 
