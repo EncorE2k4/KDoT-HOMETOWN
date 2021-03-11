@@ -1,4 +1,5 @@
-ҠÐꪮƬ HΘΜΣƬΘШ∏™ Music ! A free, high quality Discord bot. Never miss a beat with bot's 24/7 Uptime. Stream your audio at the best quality possible! Control everything from bot's prefix to the equalizer for the ultimate DJ experience. 
+# ҠÐꪮƬ HΘΜΣƬΘШ∏™ Music ! 
+A free, high quality Discord bot. Never miss a beat with bot's 24/7 Uptime. Stream your audio at the best quality possible! Control everything from bot's prefix to the equalizer for the ultimate DJ experience. 
 > 
 > [Support Server](https://discord.gg/jFQhQJV) | [Upvote Bot]()
  
