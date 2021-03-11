@@ -84,22 +84,6 @@ A free, high quality Discord bot. Never miss a beat with bot's 24/7 Uptime. Stre
 ## 🎛️ Filters
 > COMING SOON
 
-## ❔ Others
-
->> `bug` :- To report a bug . 
->
->> `help` :- To know more about all commands .
-> 
->> `invite` :- To get invite link and support server link .
-> 
->> `ping` :- To check the bot's ping .
->
->> `suggest` :- To suggest something .
->
->> `uptime` :- To check the uptime of bot .
->
->> `vote` :- To get the link to upvote bot. 
-
  Screenshots
  ==========================
 ![Screenshot_20210311-110212_Discord](https://user-images.githubusercontent.com/72906961/110740698-816c7100-8259-11eb-8dee-f1dafbae48da.jpg)
